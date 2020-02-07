@@ -22,7 +22,7 @@ And the development version from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("CorradoLanera/forktest")
+devtools::install_github("UBESP-DCTV/forktest")
 ```
 
 ## Example
