@@ -12,3 +12,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/UBESP-DCTV/forktest
 BugReports: https://github.com/UBESP-DCTV/forktest/issues
+RoxygenNote: 7.0.2
